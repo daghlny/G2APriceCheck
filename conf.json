@@ -1,0 +1,12 @@
+{
+	"notice_method" : "email",
+	"rec_email_addr" : "*",
+	"sender_email_addr" : "*",
+	"sender_email_pw"   : "*",
+	"sender_smtp_addr"  : "*",
+	"gamelist" : {
+		"glove-case-key":{
+			"link": "https://www.g2a.com/glove-case-key.html",
+			"threshold" : 20
+		}
+}
