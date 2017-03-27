@@ -1,0 +1,1603 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh">
+
+    <head>
+        <meta http-equiv="content-language" content="zh">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Glove Case Key - G2A.COM</title>
+	<meta name="description" content="This key only opens Glove cases " />
+<meta name="keywords" content="games, games key, online shop, cd-key, online games, mmorpg, mmo, box" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="wot-verification" content="c7642030319361396884"/>
+<meta property="twitter:account_id" content="4503599630997032" />
+
+
+<link rel="icon" href="https://www.g2a.com/media/favicon/default/G2A.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.g2a.com/media/favicon/default/G2A.ico" type="image/x-icon" />
+
+
+<script type="text/javascript">
+    var my_store = 27;
+    var my_lang_code = 'zh';
+    var my_currency = 'CNY';
+    var my_currency_allowed = my_currency;
+    var my_country_code = 'CN';
+
+    var marketplace_store = "china";
+
+    if ('CN' === my_country_code) {
+        var _cn = true;
+    } else if ('KR' === my_country_code) {
+        var _kr = true;
+    }
+
+    
+    var _luceneEndpoint = "https://www.g2a.com/lucene/";
+    var _visitorsEndpoint = "https://visitors.g2a.com/connect";
+    var my_currency_symbol = '￥';
+
+    if(my_currency_allowed != 'EUR' && my_currency_allowed != 'USD' && my_currency_allowed != 'GBP' && my_currency_allowed != 'PLN' && my_currency_allowed != 'RUB' && my_currency_allowed != 'AUD' && my_currency_allowed != 'CAD' && my_currency_allowed != 'CZK' && my_currency_allowed != 'NZD' && my_currency_allowed != 'CHF' && my_currency_allowed != 'SGD' && my_currency_allowed != 'PHP' && my_currency_allowed != 'MXN' && my_currency_allowed != 'CNY' && my_currency_allowed != 'SEK' && my_currency_allowed != 'DKK' && my_currency_allowed != 'HUF' && my_currency_allowed != 'TRY' && my_currency_allowed != 'ARS' && my_currency_allowed != 'BRL' && my_currency_allowed != 'INR' && my_currency_allowed != 'JPY' && my_currency_allowed != 'KRW' && my_currency_allowed != 'ZAR' && my_currency_allowed != 'NOK' && my_currency_allowed != 'AED' && my_currency_allowed != 'EGP' && my_currency_allowed != 'JOD' && my_currency_allowed != 'SAR' && my_currency_allowed != 'VND' && my_currency_allowed != 'RON' && my_currency_allowed != 'CLP' && my_currency_allowed != 'COP' && my_currency_allowed != 'PEN' && my_currency_allowed != 'PAB' && my_currency_allowed != 'KWD' && my_currency_allowed != 'THB' && my_currency_allowed != 'TWD' && my_currency_allowed != 'HKD') {
+        var my_currency_allowed = 'CNY';
+    }
+
+    var rates = {"USD":"1.083977000000","GBP":"0.866354000000","PLN":"4.266752000000","RUB":"61.793002000000","AUD":"1.423280000000","CAD":"1.445885000000","CZK":"27.020143000000","NZD":"1.538998000000","CHF":"1.071368000000","SGD":"1.513219000000","PHP":"54.321098000000","MXN":"20.372481000000","CNY":"7.436690000000","SEK":"9.526985000000","DKK":"7.437391000000","HUF":"310.153047000000","TRY":"3.907564000000","ARS":"16.863979000000","BRL":"3.369350000000","INR":"70.799987000000","JPY":"119.687395780000","KRW":"1208.217524000000","ZAR":"13.463633000000","NOK":"9.169799000000","AED":"3.981337000000","EGP":"19.493166000000","JOD":"0.767564000000","SAR":"4.064807000000","VND":"24700.955443000000","RON":"4.568641000000","CLP":"716.075502000000","COP":"3141.236568000000","PEN":"3.506500000000","PAB":"1.083977000000","KWD":"0.329599000000","THB":"37.393699000000","TWD":"32.887876000000","HKD":"8.419109000000"};
+    var wholedata = null;
+    var wholecounts = null;
+    var lang_site = "cn";
+    var whsChecked = null;
+    var dataLayer = [];
+    var insider_object = {
+        'version': '1.0',
+        'basket': {
+            'total': 0,
+            'currency': my_currency_allowed
+        },
+        'user': {},
+        'page': {
+            'type': 'Home'
+        }
+    };
+    if ('undefined' !== typeof localStorage && localStorage.getItem('insiderBasket')) {
+        insider_object.basket = JSON.parse(localStorage.getItem('insiderBasket'));
+    }
+</script>
+
+    <script type="text/javascript" src="https://www.g2a.com/currency-rates.js?_=f02jfh2f8h221"></script>
+
+<link rel="stylesheet" type="text/css" href="/assets/bundle/css/page.1490616564.css">
+<link rel="stylesheet" type="text/css" href="/assets/bundle/css/product.1490616564.css">
+<link rel="stylesheet" type="text/css" href="https://www.g2a.com/skin/frontend/gate/default/css/marketplace/ui-lightness/jquery-ui-1.10.3.custom.min.1490616564.css" media="all" />
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery-1.11.0.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery-ui-1.10.4.custom.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/components/g2a-tooltip/dist/g2a-tooltip.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery.uniform.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery.lwtCountdown-1.0.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/modernizr-2.6.2.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/components/moment/min/moment-with-locales.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/components/moment-timezone/builds/moment-timezone-with-data-2010-2020.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/mage/cookies.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/header.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/scripts.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/mp_main.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/affiliate.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery-scrolltofixed.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/catalog/enhancedEcommerce.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery.cookie.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery.tablesorter.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/searchService.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/quickSearch.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/toolbar.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/forge-sha256.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/recommendations/recommendations.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/socket.io-1.0.6.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/onlineVisitors.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/main_lib/jquery.prettyPhoto.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/circles.min.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/catalog/scripts.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/useful.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/marketplace/main.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/rating-popup.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/catalog/g2aProduct.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/catalog/browser-deeplink.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/frontend/checkout/country-selector.1490616564.js"></script>
+
+<script type="text/javascript" src="https://www.g2a.com/js/components/ez-plus/src/jquery.ez-plus.1490616564.js"></script>
+
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.g2a.com/skin/frontend/gate/default/css/ie8.1490616564.css" media="all" />
+
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.g2a.com/skin/frontend/gate/default/css/styles-ie.1490616564.css" media="all" />
+
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.g2a.com';
+//]]>
+</script>
+        <link rel="alternate" hreflang="x-default" href="https://www.g2a.com/glove-case-key.html" />
+            <link rel="alternate" hreflang="de" href="https://www.g2a.com/glove-case-key.html?___store=german" />
+            <link rel="alternate" hreflang="es-es" href="https://www.g2a.com/glove-case-key.html?___store=spanish" />
+            <link rel="alternate" hreflang="en" href="https://www.g2a.com/glove-case-key.html?___store=english" />
+            <link rel="alternate" hreflang="fr" href="https://www.g2a.com/glove-case-key.html?___store=french" />
+            <link rel="alternate" hreflang="en-gb" href="https://www.g2a.com/glove-case-key.html?___store=great_britain" />
+            <link rel="alternate" hreflang="en-us" href="https://www.g2a.com/glove-case-key.html?___store=englishus" />
+            <link rel="alternate" hreflang="en-au" href="https://www.g2a.com/glove-case-key.html?___store=australia" />
+            <link rel="alternate" hreflang="en-ca" href="https://www.g2a.com/glove-case-key.html?___store=canada" />
+            <link rel="alternate" hreflang="cs" href="https://www.g2a.com/glove-case-key.html?___store=czech" />
+            <link rel="alternate" hreflang="hu" href="https://www.g2a.com/glove-case-key.html?___store=hungarian" />
+            <link rel="alternate" hreflang="it" href="https://www.g2a.com/glove-case-key.html?___store=italian" />
+            <link rel="alternate" hreflang="en-in" href="https://www.g2a.com/glove-case-key.html?___store=indian_en" />
+            <link rel="alternate" hreflang="nl" href="https://www.g2a.com/glove-case-key.html?___store=dutch" />
+            <link rel="alternate" hreflang="ko" href="https://www.g2a.com/glove-case-key.html?___store=korean" />
+            <link rel="alternate" hreflang="en-nz" href="https://www.g2a.com/glove-case-key.html?___store=newzeland" />
+            <link rel="alternate" hreflang="pl" href="https://www.g2a.com/glove-case-key.html?___store=polish" />
+            <link rel="alternate" hreflang="pt" href="https://www.g2a.com/glove-case-key.html?___store=portuguese" />
+            <link rel="alternate" hreflang="ru" href="https://www.g2a.com/glove-case-key.html?___store=russian" />
+            <link rel="alternate" hreflang="es-mx" href="https://www.g2a.com/glove-case-key.html?___store=mexico" />
+            <link rel="alternate" hreflang="en-sg" href="https://www.g2a.com/glove-case-key.html?___store=singapur" />
+            <link rel="alternate" hreflang="en-ph" href="https://www.g2a.com/glove-case-key.html?___store=philippines" />
+            <link rel="alternate" hreflang="de-ch" href="https://www.g2a.com/glove-case-key.html?___store=switzerland" />
+            <link rel="alternate" hreflang="zh" href="https://www.g2a.com/glove-case-key.html?___store=china" />
+            <link rel="alternate" hreflang="vi" href="https://www.g2a.com/glove-case-key.html?___store=vietnamese" />
+            <link rel="alternate" hreflang="pt-br" href="https://www.g2a.com/glove-case-key.html?___store=brazil" />
+            <link rel="alternate" hreflang="ja" href="https://www.g2a.com/glove-case-key.html?___store=japanese" />
+            <link rel="alternate" hreflang="zh-tw" href="https://www.g2a.com/glove-case-key.html?___store=taiwan" />
+            <link rel="alternate" hreflang="ar" href="https://www.g2a.com/glove-case-key.html?___store=arabic" />
+            <link rel="alternate" hreflang="es" href="https://www.g2a.com/glove-case-key.html?___store=latam" />
+            <link rel="alternate" hreflang="es-ar" href="https://www.g2a.com/glove-case-key.html?___store=argentina" />
+            <link rel="alternate" hreflang="tr" href="https://www.g2a.com/glove-case-key.html?___store=turkish" />
+            <link rel="alternate" hreflang="ro" href="https://www.g2a.com/glove-case-key.html?___store=romanian" />
+            <link rel="alternate" hreflang="th" href="https://www.g2a.com/glove-case-key.html?___store=thai" />
+        <link rel="alternate" href="intent://g2a.com/?product_slug=glove-case-key.html#Intent;scheme=g2a;package=com.g2a.marketplace;S.browser_fallback_url=https://www.g2a.com/index.php/glove-case-key.html;end" />
+    <link rel="alternate" href="g2a://g2a.com/?product_slug=glove-case-key.html" />
+
+
+    </head>
+
+
+    <body class="zh_CN country-iso-zh">
+        
+        <div id="body_clicker"></div>
+
+        <script type="text/javascript">
+    var translate_loadmore = '载入更多';
+    var translate_from = '从';
+</script>
+
+
+<div class="overlay" style="display: none"></div>
+        <div class="mp-header" id="mpHeader">
+            <a href="/redeem-card" class="mp-head-giftcard">
+                <div class="mp-head-wrap">
+                    <div class="mp-head-giftcard-wrap">
+                        <div class="mp-head-giftcard-center">
+                            <span id="cardGiftMain" class="mp-head-giftcard-cardImg"></span>
+                            <span class="mp-head-giftcard-cardSign">添加G2A礼品卡到您的账户余额</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <div class="mp-head-wrap">
+                <div class="mp-head-top">
+                    <div class="mp-head-like">
+                                            </div>
+                    <div class="mp-head-goldmine">
+                        <a href="/goldmine" >
+                            <span class="goldmine_gold_img icon icon-money"></span>
+                            <span>
+                                <strong>G2A金矿                                和我们一起赚钱吧！</strong>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="mp-head-stc">
+                        <a href="/savethechildren">
+                            <div class="icon icon-charity"></div>
+                            <span>拯救儿童慈善机构</span>
+                        </a>
+                    </div>
+                    <div class="mp-head-switch">
+                        
+<div class="mp-head-local-drop mp-head-dropdown f32">
+    <div class="mp-head-dropdown-arena">
+        <div class="mp-head-local-drop-tab"></div>
+        <ul class="con1">
+            <li>
+            <a href="?___store=german"  data-language="german" class="switch-language-anchor">
+                <span class="regions5 flag german">&nbsp;</span>
+                Germany (Deutsch)            </a>
+        </li>
+            <li>
+            <a href="?___store=spanish"  data-language="spanish" class="switch-language-anchor">
+                <span class="regions5 flag spanish">&nbsp;</span>
+                Spain (Español)            </a>
+        </li>
+            <li>
+            <a href="?___store=english"  data-language="english" class="switch-language-anchor">
+                <span class="regions5 flag english">&nbsp;</span>
+                Europe (English)             </a>
+        </li>
+            <li>
+            <a href="?___store=french"  data-language="french" class="switch-language-anchor">
+                <span class="regions5 flag french">&nbsp;</span>
+                France (Français)             </a>
+        </li>
+            <li>
+            <a href="?___store=great_britain"  data-language="great_britain" class="switch-language-anchor">
+                <span class="regions5 flag great_britain">&nbsp;</span>
+                Great Britain (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=englishus"  data-language="englishus" class="switch-language-anchor">
+                <span class="regions5 flag englishus">&nbsp;</span>
+                United States (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=australia"  data-language="australia" class="switch-language-anchor">
+                <span class="regions5 flag australia">&nbsp;</span>
+                Australia (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=canada"  data-language="canada" class="switch-language-anchor">
+                <span class="regions5 flag canada">&nbsp;</span>
+                Canada (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=czech"  data-language="czech" class="switch-language-anchor">
+                <span class="regions5 flag czech">&nbsp;</span>
+                Czech Republic (Čeština)            </a>
+        </li>
+            <li>
+            <a href="?___store=hungarian"  data-language="hungarian" class="switch-language-anchor">
+                <span class="regions5 flag hungarian">&nbsp;</span>
+                Hungary (Magyar)              </a>
+        </li>
+            <li>
+            <a href="?___store=italian"  data-language="italian" class="switch-language-anchor">
+                <span class="regions5 flag italian">&nbsp;</span>
+                Italy (Italiano)            </a>
+        </li>
+            <li>
+            <a href="?___store=indian_en"  data-language="indian_en" class="switch-language-anchor">
+                <span class="regions5 flag indian_en">&nbsp;</span>
+                India (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=dutch"  data-language="dutch" class="switch-language-anchor">
+                <span class="regions5 flag dutch">&nbsp;</span>
+                Netherlands (Dutch)             </a>
+        </li>
+            <li>
+            <a href="?___store=korean"  data-language="korean" class="switch-language-anchor">
+                <span class="regions5 flag korean">&nbsp;</span>
+                Korea (한국어)            </a>
+        </li>
+            <li>
+            <a href="?___store=newzeland"  data-language="newzeland" class="switch-language-anchor">
+                <span class="regions5 flag newzeland">&nbsp;</span>
+                New Zealand (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=polish"  data-language="polish" class="switch-language-anchor">
+                <span class="regions5 flag polish">&nbsp;</span>
+                Poland (Polski)            </a>
+        </li>
+            <li>
+            <a href="?___store=portuguese"  data-language="portuguese" class="switch-language-anchor">
+                <span class="regions5 flag portuguese">&nbsp;</span>
+                Portugal (Português)            </a>
+        </li>
+            <li>
+            <a href="?___store=russian"  data-language="russian" class="switch-language-anchor">
+                <span class="regions5 flag russian">&nbsp;</span>
+                Russia (Pусский)            </a>
+        </li>
+            <li>
+            <a href="?___store=mexico"  data-language="mexico" class="switch-language-anchor">
+                <span class="regions5 flag mexico">&nbsp;</span>
+                Mexico (Español)            </a>
+        </li>
+            <li>
+            <a href="?___store=singapur"  data-language="singapur" class="switch-language-anchor">
+                <span class="regions5 flag singapur">&nbsp;</span>
+                Singapore (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=philippines"  data-language="philippines" class="switch-language-anchor">
+                <span class="regions5 flag philippines">&nbsp;</span>
+                Philippines (English)            </a>
+        </li>
+            <li>
+            <a href="?___store=switzerland"  data-language="switzerland" class="switch-language-anchor">
+                <span class="regions5 flag switzerland">&nbsp;</span>
+                Switzerland (Deutsch)            </a>
+        </li>
+            <li>
+            <a href="?___store=china"  class="current_field" data-language="china" class="switch-language-anchor">
+                <span class="regions5 flag china">&nbsp;</span>
+                China (中文)            </a>
+        </li>
+            <li>
+            <a href="?___store=vietnamese"  data-language="vietnamese" class="switch-language-anchor">
+                <span class="regions5 flag vietnamese">&nbsp;</span>
+                Vietnamese (Tiếng Việt)            </a>
+        </li>
+            <li>
+            <a href="?___store=brazil"  data-language="brazil" class="switch-language-anchor">
+                <span class="regions5 flag brazil">&nbsp;</span>
+                Brazil (Portugues)            </a>
+        </li>
+            <li>
+            <a href="?___store=japanese"  data-language="japanese" class="switch-language-anchor">
+                <span class="regions5 flag japanese">&nbsp;</span>
+                Japan (日本語)            </a>
+        </li>
+            <li>
+            <a href="?___store=taiwan"  data-language="taiwan" class="switch-language-anchor">
+                <span class="regions5 flag taiwan">&nbsp;</span>
+                Taiwan (繁體中文)            </a>
+        </li>
+            <li>
+            <a href="?___store=arabic"  data-language="arabic" class="switch-language-anchor">
+                <span class="regions5 flag arabic">&nbsp;</span>
+                Arabic (العربية)            </a>
+        </li>
+            <li>
+            <a href="?___store=latam"  data-language="latam" class="switch-language-anchor">
+                <span class="regions5 flag latam">&nbsp;</span>
+                LATAM (Español)            </a>
+        </li>
+            <li>
+            <a href="?___store=argentina"  data-language="argentina" class="switch-language-anchor">
+                <span class="regions5 flag argentina">&nbsp;</span>
+                Argentina (Español)            </a>
+        </li>
+            <li>
+            <a href="?___store=turkish"  data-language="turkish" class="switch-language-anchor">
+                <span class="regions5 flag turkish">&nbsp;</span>
+                Turkey (Turkish)            </a>
+        </li>
+            <li>
+            <a href="?___store=romanian"  data-language="romanian" class="switch-language-anchor">
+                <span class="regions5 flag romanian">&nbsp;</span>
+                Romania (Romanian)            </a>
+        </li>
+            <li>
+            <a href="?___store=thai"  data-language="thai" class="switch-language-anchor">
+                <span class="regions5 flag thai">&nbsp;</span>
+                Thailand (ไทย)            </a>
+        </li>
+    </ul>    </div>
+</div>
+
+
+<div class="mp-head-local2-drop mp-head-dropdown">
+    <div class="mp-head-dropdown-arena">
+        <div class="mp-head-local-drop-tab"></div>
+        <ul class="select_ul select_ul_currency">
+                        <li><a href="/marketplace/currency/switch/currency/AED" >AED</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/ARS" >ARS</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/AUD" >AUD</a></li>
+                                            <li><a href="/marketplace/currency/switch/currency/BRL" >BRL</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/CAD" >CAD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/CHF" >CHF</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/CLP" >CLP</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/CNY"  class="current_field" >CNY</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/COP" >COP</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/CZK" >CZK</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/DKK" >DKK</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/EGP" >EGP</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/EUR" >EUR</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/GBP" >GBP</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/HKD" >HKD</a></li>
+                                            <li><a href="/marketplace/currency/switch/currency/HUF" >HUF</a></li>
+                                            <li><a href="/marketplace/currency/switch/currency/INR" >INR</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/JOD" >JOD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/JPY" >JPY</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/KRW" >KRW</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/KWD" >KWD</a></li>
+                                                                    <li><a href="/marketplace/currency/switch/currency/MXN" >MXN</a></li>
+                                            <li><a href="/marketplace/currency/switch/currency/NOK" >NOK</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/NZD" >NZD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/PAB" >PAB</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/PEN" >PEN</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/PHP" >PHP</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/PLN" >PLN</a></li>
+                                            <li><a href="/marketplace/currency/switch/currency/RON" >RON</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/RUB" >RUB</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/SAR" >SAR</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/SEK" >SEK</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/SGD" >SGD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/THB" >THB</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/TRY" >TRY</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/TWD" >TWD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/USD" >USD</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/VND" >VND</a></li>
+                                <li><a href="/marketplace/currency/switch/currency/ZAR" >ZAR</a></li>
+            </ul>
+    </div>
+</div>
+
+<div class="mp-head-local">
+	<div class="mp-head-local1 f32">	
+		<div class="mp-head-local-store">
+			<span class="regions5 flag china">&nbsp;</span>	
+						中国		</div>
+	</div>
+
+	<div class="mp-head-local2">
+		<div class="mp-head-local-currency">
+			CNY		</div>
+	</div>
+</div>                    </div>
+                </div>
+
+                <div class="mp-head-bottom">
+                    <div class="mp-head-logo">
+                        <a href="/" title="www.g2a.com"><span id="logog2aimg"></span></a>
+                    </div>
+                    <div class="mp-head-search">
+                        <script type="text/javascript">
+    var skip_products = allowedCountryProducts({"28837":["PL"],"28838":["PL"],"28847":["PL"],"28849":["PL"],"28852":["PL"],"28856":["PL"],"28857":["PL"],"28858":["PL"],"28859":["PL"],"28860":["PL"],"28861":["PL"],"28862":["PL"],"28863":["PL"],"28867":["PL"],"28868":["PL"],"28869":["PL","DE","US","GB"],"29472":["PL"],"29473":["DE"],"29474":["DE"],"29475":["DE","US","GB"],"29476":["DE","US"],"29482":["DE","US","GB"],"29486":["DE","US","GB"],"33104":["PL","DE"]});
+    var toolbarSearchAutocompleteProducts = null;
+    var searchLabel = {
+        search_prev : "上一页",
+        search_next : "下一页",
+        search_results : "搜索结果",
+        button_notify_text : "请通知我",
+        button_view_text : "查看",
+        button_buy_text : "立即购买",
+        button_free_games : "立即开玩",
+        label_free_games : "免费游戏",
+        button_servers_games : "立即购买",
+        label_servers_games : "立即购买",
+        button_free_trial: "免费试用版",
+        button_donate_text : "捐赠",
+        button_preorder_text : "预购",
+        label_from_text : "从",
+        search_donate_text : "100%捐送给慈善机构",
+        search_no_results: "没有结果",
+        search_view_more_results: "查看更多结果",
+        more_details: "更多详细信息 &raquo;"
+    };
+</script>
+
+<div id="search-wrap">
+    <input type="text" class="mp-h-main" id="product-autocomplete" placeholder="在商城中搜索..." maxlength="200">
+    <div class="searchInputIcon icon-search"></div>
+    <div class="exitSearch icon-x-bold"></div>
+</div>
+
+<div id="search_item_template" style="display: none;">
+    <li class="autocomplet-item-ok ui-menu-item" role="presentation">
+        <div class="search_item">
+            <a href="" class="link_product">
+                <div class="search_item_l"></div>
+                <div class="search_item_r">
+                    <h3 class="search_h3"></h3>
+                    <div class="search_optional_name"></div>
+                    <div class="search_charity_text"></div>
+                    <div class="price"><span></span></div>
+                    <div class="buynow"></div>
+                </div>
+                <div class="clear"></div>
+            </a>
+        </div>
+    </li>
+</div>
+                    </div>
+                    <div class="mp-head-customer">
+                            <div class="toolbar-user-ajax"></div>
+</div>
+
+
+<script type="text/javascript">
+    var form_key = '';
+    var customReflinkData = "";
+
+    loadToolbar();
+</script>
+
+<div class="g2a-bbt">
+    <span id="upPageToolbar"></span>
+</div>
+
+<a href="/supporthub" id="supportHubToolTip">
+    <div class="supportHubIcon icon-supporthub"></div>
+    <div class="supportHubTitle"><span>客服中心</span></div>
+        <div class="supportHubTriangle"></div>
+</a>
+                    </div>
+                </div>
+                <div class="mp-head-searchlist" style="height: 0;"></div>
+            </div>
+        </div>
+
+        <div id="container2"></div>
+        <div style="z-index: 10" id="content-landing">
+
+                                    <div id="content-tabs">
+                <div id="content-tabs-0"><div id="priceboost-page">
+<script type="text/javascript">
+
+    //<![CDATA[
+    var countryCode = 'CN';
+    var productID = 74363;
+    var escrowInputToCheck = null;
+    var pageType = 'product';
+    var productPrice = 0.00;
+    var baseProductPrice = productPrice;
+    var config = {
+        isFreeGamesType: false,
+        isServersGamesType: false,
+        marketplaceProductBuyUrl: 'https://www.g2a.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZzJhLmNvbS9nbG92ZS1jYXNlLWtleS5odG1s/product/74363/',
+        marketplaceProductBaseBuyUrl: 'https://www.g2a.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZzJhLmNvbS9nbG92ZS1jYXNlLWtleS5odG1s/product/74363/',
+        marketplaceWholesale: false,
+        marketplaceBuyPopup: false,
+        marketplaceMultiplier: 0.025,
+        auction_selected_offer: null,
+        auction_steam_gift: null,
+        auction_steam_gift_accepted: null,
+        vatInc: getUrlParameter('v','0'),
+        mpParam: getUrlParameter('mp','0'),
+        steamDesc: [],
+        mobileRange: [],
+        escrowBase: parseFloat(3),
+        mobilePriceBase: 0,
+        currencySymbol: '￥',
+        isInStockId: '',
+        isPreorder: false,
+        isPreorderV2: false,
+        isSteamType: true,
+        donateIsset: false,
+        vatAmount: 0
+    };
+    var checkedWhe = false;
+    //Generate translation object, make it smaller
+    var ln = g2aProduct.translator;
+    ln.add('VAT Inc','VAT Inc');ln.add('Steam gift','Steam礼物');ln.add('Digital key','数字密钥');ln.add('items','产品');ln.add('Buy this product directly from','Buy this product directly from');ln.add('New User','新用户');ln.add('of','的');ln.add('at the price','at the price');ln.add('item(s)','item(s)');ln.add('more details &raquo;','more details &raquo;');ln.add('Total','总计');ln.add('Exterior','外观');ln.add('Name Tag','Name Tag');ln.add('Gift','Gift');ln.add('for','为');ln.add('Sticker/s','Sticker/s');ln.add('Steam gift','Steam礼物');ln.add('View on Steam','View on Steam');ln.add('from','来自');ln.add('Only on','Only on');ln.add('G2A Direct','G2A Direct');ln.add('Official Developer','官方开发人员');ln.add('Official Publisher','官方发行商');ln.add('Marketplace User','商城用户');ln.add('Buy from','Buy from');ln.add('sticker','sticker');
+    jQuery(document).ready(function() {
+        var slug = window.location.pathname.replace('/', '');
+        slug = slug.replace('.html', '');
+        var appUrl = 'g2a://g2a.com?product_slug=' + slug;
+
+        deeplink.open(appUrl,slug);
+
+        //Init Object (bind events)
+        g2aProduct.init(config);
+    });
+
+    //]]>
+</script>
+
+<div id="lowestPriceTip">
+    <div id="top"></div>
+    <div id="closeX" class="icon-x gs-shield-pp-close"></div>
+    <div>
+        <span class="step">1</span>
+        <span class="stepTitle">找到了更低价格？</span>
+        <span class="stepTxt">在<b>G2A商城</b>买了一个产品并在其他网站上找到了更低的价格？</span>
+    </div>
+
+    <div>
+        <span class="step">2</span>
+        <span class="stepTitle">查看我们的退款政策</span>
+        <span class="stepTxt">请注意，产品与其版本，内容，以及可用区域<b>必须匹配</b>。查看<a href="/terms-and-conditions">条款和条件</a>。</span>
+    </div>
+
+    <div>
+        <span class="step">3</span>
+        <span class="stepTitle">要求退款</span>
+        <span class="stepTxt">请您填写<a href="/supporthub">G2A 客服表</a>，我们希望可以在未来48小时内给予您答复。</span>
+    </div>
+
+        <div class="shied-button">
+        <a href="//pay.g2a.com/panel/creditCard" class="shieldButton">
+            获得免费30天的G2A保护盾        </a>
+    </div>
+        <div id="thisIsIt"></div>
+</div><div id="content" class="free-bg-74363" style="margin-top: -17px;">
+    <div id="lightP" style="overflow: visible; height: auto; display: inline-block; width: 100%;">
+
+        <div class="prod_name pipe">
+            <div class="nameContent">
+                <h1>
+                    Glove Case Key                </h1>
+                            </div>
+                            <div class="steamSearch">
+                    <a class="searchSteamUrl" href="https://www.g2a.com/in-game-items?f=730&g=15&l=Glove Case Key&s=151">
+                        <i class="icon icon-search"></i>
+                    </a>
+                </div>
+            
+            <h2 id="marketplace-available-text">来自于<strong onclick="g2aProduct.scrollToAuctions()"><span class="sellers_no"></span>商城卖家可用 <icon class="icon icon-shape_triangle"></icon></strong></h2>
+        </div>
+
+        <div class="product_f" id="productArea">
+            <div class="product_f-right">
+                <div class="games-price mp-item" style="overflow: visible;">
+
+                    
+                        <div class="games-price-loading" >
+                            <div class="games-price-loader"></div>
+                        </div>
+
+                        <div class="mp-product-moving-box-visitors" id="product-online-visitors">
+                            <span class="icon-eye"></span>
+                            共有<strong>%d</strong>人正在查看相同产品。                        </div>
+
+                        <div class="games-price-box" style="display: none">
+                            <div class="mp-product-moving-box-notify" style="display: none">
+                                <div class="mp-product-moving-box-info">
+                                    该产品目前缺货。                                </div>
+
+                                <div class="content-description">
+                                                                            <strong>想买吗？</strong>
+                                        <div class="mp-item-bn-blue mp-item-notify" onclick="notify_popup(productID)">请通知我</div>
+                                    
+                                                                    </div>
+                            </div>
+
+                            <div class="popup-info" style="display: none;">
+                                您所要求的数量超过了可从某个单独商家购买的可用数量。请尝试将您的请求数量拆分为较小数量后，再从多个商家处进行购买。                            </div>
+
+                            <div class="games-price-box-content">
+                                <div class="games-price2">&nbsp;</div>
+
+                                <div class="m-row mp-quantity jq-marketplace-wholesale-qty" style="display: none;">
+                                    <div style="float: left;">
+                                        <strong>数量</strong>
+                                    </div>
+                                    <input type="text" class="jq-marketplace-wholesale-qty-value" name="qty_available" value="1" maxlength="5" />
+                                </div>
+
+                                <div class="jq-mp-q-pirce mp-q-pirce">
+                                    <div class="jq-marketplace-product-price">0.00 ￥</div>
+                                </div>
+                                <div class="wh-table-content">
+                                    <table class="mp-user-rating jq-wh-offers wh-table"></table>
+                                </div>
+
+                                
+                                <div class="steam-only exs">
+                                    <h5>外观:</h5>
+                                    <select id="exterior-select"></select>
+                                </div>
+
+                                <div class="selected-offer offer" id="g2a-offer-wrapper">
+                                    <div class="offer-title">
+                                        <input type="radio" id="g2a-radio" name="offer_type" value="g2a"/>
+                                        <input type="hidden" name="offer_id"/>
+                                        <label for="g2a-radio">G2A 推荐卖家</label>
+                                                                                    <i class="icon-question_mark2 icon-blue icon-round" data-tooltip data-tooltip-content="<strong>This offer</strong> has been chosen to be featured as the <strong>G2A Selected Offer</strong>. You can also buy the same offer from the list below and at a lower price."></i>
+                                                                            </div>
+
+                                    <div class="avatar"><i class="icon-user"></i></div>
+                                    <div>
+                                        <div class="mp-Rbox">
+                                            <div class="mp-rating-box">
+                                                <div class="marketplace-name">商城用户</div>
+                                                <div class="star-rating">
+                                                    <span class="inactive"><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i></span>
+                                                    <span class="current-rate" style="width: 100%"><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cb"></div>
+                                    </div>
+                                    <div>
+                                        <div class="selected-price">
+                                            0.00 ￥                                        </div>
+                                        <div class="selected-icon">
+                                            <div class="mp-Type">
+                                                <span class="icon-key"></span>数字密钥                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+                                </div>
+                                <div class="developer-offer offer" id="official-offer-wrapper">
+                                    <div class="offer-title">
+                                        <input type="radio" name="offer_type" id="official-radio" value="official"/>
+                                        <input type="hidden" name="offer_id"/>
+                                        <label for="official-radio">
+                                                                                    </label>
+                                    </div>
+                                    <div class="avatar"><i class="icon-user"></i></div>
+                                    <div>
+                                        <div class="mp-Rbox">
+                                            <div class="mp-rating-box">
+                                                <div class="marketplace-name">商城用户</div>
+                                                <div class="official-seller">
+                                                                                                    </div>
+                                                <div class="star-rating">
+                                                    <span class="inactive"><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i></span>
+                                                    <span class="current-rate" style="width: 100%"><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i><i class="icon-shape_star"></i></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cb"></div>
+                                    </div>
+                                    <div class="developer-price">
+                                        0.00 ￥                                    </div>
+                                </div>
+
+
+                                <div class="jq-marketplace-price-total"></div>
+
+                                                                <form action="https://www.g2a.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZzJhLmNvbS9nbG92ZS1jYXNlLWtleS5odG1s/product/74363/" method="post" id="product_addtocart_form" name="product_addtocart_form">
+                                    <input type="hidden" name="product" value="74363" />
+                                                                    <input type="hidden" name="auction_id" value="0" />
+                                    <input type="hidden" name="escrow" value="0" />
+                                    <input type="hidden" name="qty" value="1" />
+                                    <input type="hidden" name="return_url" value="" id="pp_checkout_url" />
+                                    <input type="hidden" name="vat_country" value="" />
+                                    <input type="hidden" name="isAjax" value="" id="checkout_ajax" />
+                                    <input type="hidden" name="email" value="" />
+                                    <input type="hidden" name="cleanCart" value="" />
+                                    <input type="hidden" name="productView" value="1" />
+
+                                    <span id="selectedSeller"></span>
+                                </form>
+
+                                <div style="clear: both;" class="mp-product-content-buy">
+                                                                            <a href="#" class="jq-catalog-product-redirect product-page-buy-now" id="selected-cid"><div class="mp-item-bn" id="buy-now">立即购买</div></a>
+                                    
+                                    <div class="jq-marketplace-bid-handle mp-bid-handle" style="display: none;">出价</div>
+
+                                    <a class="available_from">
+                                        <button class="btn-marketplace-items">
+                                            <span class="btn-marketplace-items-icon icon-offers"></span>
+                                            产品价格从 <span class="sellers_no"></span> 到 <span class="sellers_lowest"></span>                                        </button>
+                                    </a>
+                                                                            <div class="cashback-container">
+                                            <div id="cashback-button">
+                                                <div class="cashback-widget-section">
+                                                    <div class="cashback-widget-number">6%</div>
+                                                    <div class="cashback-widget-caption">返现</div>
+                                                </div>
+                                                <div class="cashback-widget-section">
+                                                    <div class="cashback-widget-caption cashback-widget-equals">=</div>
+                                                </div>
+                                                <div class="coins cashback-widget-section">
+                                                    <div class="cashback-widget-number coins-value"></div>
+                                                    <div class="cashback-widget-caption">G2A Coins</div>
+                                                </div>
+                                                <span id="coins-info-popuplink" class="coins-info-icon">i</span>
+                                                <div class="clearfix"></div>
+                                            </div>
+                                            <div class="cashback-info">
+                                                                                                    开通G2A保护盾会员，您使用G2A钱包支付的时，最高可以返现购物总额的10%。                                                                                                <a href="#" id="cashback-popuplink">返现是什么？</a>
+                                            </div>
+                                        </div>
+                                                                            <div id="paypal-checkout" style="display: none;">
+                                                                                    </div>
+                                                                        <div class="clear"></div>
+                                        <div class="pay-mobile" style="display: none;">
+        <hr />
+        <div class="icon-mobile pay-mobile"></div>
+        <h2>电话支付 </h2>
+        <span class="sep">&nbsp;</span>
+        <a id="payButton" href="javascript:void(0);" onclick="g2aProduct.buy_express('mobile_pay');" />
+            支付        </a>
+    </div>
+<script>
+    var allowedCountry = {'boku':['BH','BA','BR','BG','CA','CL','HR','CY','CZ','DK','EC','EG','EE','FI','FR','GR','HK','HU','IN','ID','IE','JO','LV','LB','LT','MY','MX','NL','NZ','PE','PH','PL','PT','RO','RU','SA','RS','SG','SK','SI','ZA','ES','CH','TH','AE','VN'],'thupay_mobile':[],'paypal_carrier':['DE','SE','IT','BE','TW','NO','KR','GB','TR']};
+    var mobileMethod = null;
+    var cartUrl = 'https://www.g2a.com/checkout/cart/';
+    var createGatewayUrl = 'https://www.g2a.com/g2apay/payment/creategateway/';
+</script>
+                                </div>
+
+                                <div class="clear"></div>
+
+                                <div class="mp-product-moving-box-only-mp" style="display: none">
+                                    <div class="mp-item-notify" onclick="notify_popup(74363)">
+                                        <div class="mp-product-moving-box-only-mp-link">当该产品在G2A可用时通知我</div>
+                                    </div>
+                                </div>
+
+                                <div class="mp-product-moving-box-shield">
+                                    <div class="shield-check icon-tick"></div>
+                                    <div class='spriteProduct shield1 shield-logo'></div>
+                                    <span class="shield-price">22.31 ￥</span>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+
+            <div class="product_f-left">
+                
+                <div class="clear"></div>
+                <div class="game-top">
+                                        <div class="games-image">
+                        <img src="https://images.g2a.com/m/211x289/1x1x1/thumbnail/t/m/27c775c95dad_tmpSteama5f9cbfc745e3ff15bb3e0aed08355c1.png" alt="" />
+
+                                                <div class="wear-product-page">
+                            <div class="wear-bar">外观: <b class="jq-exteriorLabel"></b><p class="jq-floatValue"></p></div>
+                            <div class="wear-mark"></div>
+                            <div class="wear-val"></div>
+                        </div>
+                    </div>
+
+                    <div class="games-info">
+
+                                            </div>
+                </div>
+
+                <div id="steam-images">
+                    <div id="steam-video"></div>
+                    <div id="steam-image-big"></div>
+                    <div id="steam-thumbnails"></div>
+                </div>
+
+                                    <div class="mlm-product-widget" style="position: relative; bottom: -50px; zoom: 1; display: none;">
+        <div class="ef-tool2">
+        <p>
+            <span class="icon-money ef-tool2-icon"></span>
+            <strong>
+                赚取            </strong>
+            <strong id="mlm-profit-value" data-oryginal-value="0.00 ￥">
+                0.00 ￥            </strong>
+
+            如果某人使用您的金矿reflink购买产品。            <a href="https://www.g2a.com/goldmine/index/" onclick="event.preventDefault();jQuery('#goldmine-tab').click();">了解更多</a>
+        </p>
+    </div>
+</div>
+
+                    <div class="clear"></div>
+
+                    <!-- VAT POP UP -->
+                    <div id="vat-popup" class="vat-content" data-type="" style="display: none;">
+                        <div class="vat-popup-content">
+                            <div class="icon-x mp-close" onclick="g2aProduct.resetVatPopup();"></div>
+                                                            <h2>选择您所在的位置</h2>
+                                                                <hr />
+                                <div>
+                                    <div class="vat-sort" id="js-vat-select">
+                                        <div class="m-select in-view-phtml">
+                                            <span class="vat-select-value" data-value="" data-amount=""></span>
+                                            <div class="m-select-arrow"> </div>
+                                            <div class="u_select" style="padding-top: 35px;">
+                                                <ul>
+                                                    <li data-value="O-EU" data-amount="0" data-label="欧盟以外 | 0% 增值税">欧盟以外 | 0% 增值税</li><li data-value="EUB1" data-amount="0" data-label="欧盟公司 & 已注册增值税 | 0% 增值税">欧盟公司 & 已注册增值税 | 0% 增值税</li><li data-value="DK" data-amount="25" data-label="增值税 丹麦 | 25%">增值税 丹麦 | 25%</li><li data-value="BG" data-amount="20" data-label="增值税 保加利亚 | 20%">增值税 保加利亚 | 20%</li><li data-value="HR" data-amount="25" data-label="增值税 克罗地亚 | 25%">增值税 克罗地亚 | 25%</li><li data-value="HU" data-amount="27" data-label="增值税 匈牙利 | 27%">增值税 匈牙利 | 27%</li><li data-value="LU" data-amount="17" data-label="增值税 卢森堡 | 17%">增值税 卢森堡 | 17%</li><li data-value="CY" data-amount="19" data-label="增值税 塞浦路斯 | 19%">增值税 塞浦路斯 | 19%</li><li data-value="AT" data-amount="20" data-label="增值税 奥地利 | 20%">增值税 奥地利 | 20%</li><li data-value="GR" data-amount="24" data-label="增值税 希腊 | 24%">增值税 希腊 | 24%</li><li data-value="DE" data-amount="19" data-label="增值税 德国 | 19%">增值税 德国 | 19%</li><li data-value="IT" data-amount="22" data-label="增值税 意大利 | 22%">增值税 意大利 | 22%</li><li data-value="LV" data-amount="21" data-label="增值税 拉脱维亚 | 21%">增值税 拉脱维亚 | 21%</li><li data-value="CZ" data-amount="21" data-label="增值税 捷克共和国 | 21%">增值税 捷克共和国 | 21%</li><li data-value="SK" data-amount="20" data-label="增值税 斯洛伐克 | 20%">增值税 斯洛伐克 | 20%</li><li data-value="SI" data-amount="22" data-label="增值税 斯洛文尼亚 | 22%">增值税 斯洛文尼亚 | 22%</li><li data-value="BE" data-amount="21" data-label="增值税 比利时 | 21%">增值税 比利时 | 21%</li><li data-value="FR" data-amount="20" data-label="增值税 法国 | 20%">增值税 法国 | 20%</li><li data-value="PL" data-amount="23" data-label="增值税 波兰 | 23%">增值税 波兰 | 23%</li><li data-value="IE" data-amount="23" data-label="增值税 爱尔兰 | 23%">增值税 爱尔兰 | 23%</li><li data-value="EE" data-amount="20" data-label="增值税 爱沙尼亚 | 20%">增值税 爱沙尼亚 | 20%</li><li data-value="SE" data-amount="25" data-label="增值税 瑞典 | 25%">增值税 瑞典 | 25%</li><li data-value="LT" data-amount="21" data-label="增值税 立陶宛 | 21%">增值税 立陶宛 | 21%</li><li data-value="RO" data-amount="19" data-label="增值税 罗马尼亚 | 19%">增值税 罗马尼亚 | 19%</li><li data-value="FI" data-amount="24" data-label="增值税 芬兰 | 24%">增值税 芬兰 | 24%</li><li data-value="GB" data-amount="20" data-label="增值税 英国 | 20%">增值税 英国 | 20%</li><li data-value="NL" data-amount="21" data-label="增值税 荷兰 | 21%">增值税 荷兰 | 21%</li><li data-value="PT" data-amount="23" data-label="增值税 葡萄牙 | 23%">增值税 葡萄牙 | 23%</li><li data-value="ES" data-amount="21" data-label="增值税 西班牙 | 21%">增值税 西班牙 | 21%</li><li data-value="MT" data-amount="18" data-label="增值税 马耳他 | 18%">增值税 马耳他 | 18%</li><li data-value="BT" data-amount="0" data-label="不丹">不丹</li><li data-value="TL" data-amount="0" data-label="东帝汶">东帝汶</li><li data-value="CN" data-amount="0" data-label="中国">中国</li><li data-value="MO" data-amount="0" data-label="中国澳门特别行政区">中国澳门特别行政区</li><li data-value="HK" data-amount="0" data-label="中国香港特别行政区">中国香港特别行政区</li><li data-value="CF" data-amount="0" data-label="中非共和国">中非共和国</li><li data-value="UA" data-amount="0" data-label="乌克兰">乌克兰</li><li data-value="UZ" data-amount="0" data-label="乌兹别克斯坦">乌兹别克斯坦</li><li data-value="UG" data-amount="0" data-label="乌干达">乌干达</li><li data-value="UY" data-amount="0" data-label="乌拉圭">乌拉圭</li><li data-value="TD" data-amount="0" data-label="乍得">乍得</li><li data-value="YE" data-amount="0" data-label="也门">也门</li><li data-value="AM" data-amount="0" data-label="亚美尼亚">亚美尼亚</li><li data-value="IL" data-amount="0" data-label="以色列">以色列</li><li data-value="IQ" data-amount="0" data-label="伊拉克">伊拉克</li><li data-value="IR" data-amount="0" data-label="伊朗">伊朗</li><li data-value="EA" data-amount="0" data-label="休达及梅利利亚">休达及梅利利亚</li><li data-value="BZ" data-amount="0" data-label="伯利兹">伯利兹</li><li data-value="CV" data-amount="0" data-label="佛得角">佛得角</li><li data-value="RU" data-amount="0" data-label="俄罗斯">俄罗斯</li><li data-value="CP" data-amount="0" data-label="克利珀顿岛">克利珀顿岛</li><li data-value="GU" data-amount="0" data-label="关岛">关岛</li><li data-value="GM" data-amount="0" data-label="冈比亚">冈比亚</li><li data-value="IS" data-amount="0" data-label="冰岛">冰岛</li><li data-value="GN" data-amount="0" data-label="几内亚">几内亚</li><li data-value="GW" data-amount="0" data-label="几内亚比绍">几内亚比绍</li><li data-value="LI" data-amount="0" data-label="列支敦士登">列支敦士登</li><li data-value="CG" data-amount="0" data-label="刚果（布）">刚果（布）</li><li data-value="CD" data-amount="0" data-label="刚果（金）">刚果（金）</li><li data-value="LY" data-amount="0" data-label="利比亚">利比亚</li><li data-value="LR" data-amount="0" data-label="利比里亚">利比里亚</li><li data-value="CA" data-amount="0" data-label="加拿大">加拿大</li><li data-value="GH" data-amount="0" data-label="加纳">加纳</li><li data-value="IC" data-amount="0" data-label="加纳利群岛">加纳利群岛</li><li data-value="GA" data-amount="0" data-label="加蓬">加蓬</li><li data-value="MP" data-amount="0" data-label="北马里亚纳群岛">北马里亚纳群岛</li><li data-value="GS" data-amount="0" data-label="南乔治亚岛和南桑威齐群岛">南乔治亚岛和南桑威齐群岛</li><li data-value="AQ" data-amount="0" data-label="南极洲">南极洲</li><li data-value="SS" data-amount="0" data-label="南苏丹">南苏丹</li><li data-value="ZA" data-amount="0" data-label="南非">南非</li><li data-value="BW" data-amount="0" data-label="博茨瓦纳">博茨瓦纳</li><li data-value="QA" data-amount="0" data-label="卡塔尔">卡塔尔</li><li data-value="RW" data-amount="0" data-label="卢旺达">卢旺达</li><li data-value="IN" data-amount="0" data-label="印度">印度</li><li data-value="ID" data-amount="0" data-label="印度尼西亚">印度尼西亚</li><li data-value="GT" data-amount="0" data-label="危地马拉">危地马拉</li><li data-value="EC" data-amount="0" data-label="厄瓜多尔">厄瓜多尔</li><li data-value="ER" data-amount="0" data-label="厄立特里亚">厄立特里亚</li><li data-value="SY" data-amount="0" data-label="叙利亚">叙利亚</li><li data-value="CU" data-amount="0" data-label="古巴">古巴</li><li data-value="TW" data-amount="0" data-label="台湾">台湾</li><li data-value="KG" data-amount="0" data-label="吉尔吉斯斯坦">吉尔吉斯斯坦</li><li data-value="DJ" data-amount="0" data-label="吉布提">吉布提</li><li data-value="KZ" data-amount="0" data-label="哈萨克斯坦">哈萨克斯坦</li><li data-value="CO" data-amount="0" data-label="哥伦比亚">哥伦比亚</li><li data-value="CR" data-amount="0" data-label="哥斯达黎加">哥斯达黎加</li><li data-value="CM" data-amount="0" data-label="喀麦隆">喀麦隆</li><li data-value="TV" data-amount="0" data-label="图瓦卢">图瓦卢</li><li data-value="TM" data-amount="0" data-label="土库曼斯坦">土库曼斯坦</li><li data-value="TR" data-amount="0" data-label="土耳其">土耳其</li><li data-value="LC" data-amount="0" data-label="圣卢西亚">圣卢西亚</li><li data-value="KN" data-amount="0" data-label="圣基茨和尼维斯">圣基茨和尼维斯</li><li data-value="ST" data-amount="0" data-label="圣多美和普林西比">圣多美和普林西比</li><li data-value="BL" data-amount="0" data-label="圣巴泰勒米">圣巴泰勒米</li><li data-value="VC" data-amount="0" data-label="圣文森特和格林纳丁斯">圣文森特和格林纳丁斯</li><li data-value="PM" data-amount="0" data-label="圣皮埃尔和密克隆群岛">圣皮埃尔和密克隆群岛</li><li data-value="CX" data-amount="0" data-label="圣诞岛">圣诞岛</li><li data-value="SH" data-amount="0" data-label="圣赫勒拿">圣赫勒拿</li><li data-value="SM" data-amount="0" data-label="圣马力诺">圣马力诺</li><li data-value="GY" data-amount="0" data-label="圭亚那">圭亚那</li><li data-value="TZ" data-amount="0" data-label="坦桑尼亚">坦桑尼亚</li><li data-value="EG" data-amount="0" data-label="埃及">埃及</li><li data-value="ET" data-amount="0" data-label="埃塞俄比亚">埃塞俄比亚</li><li data-value="KI" data-amount="0" data-label="基里巴斯">基里巴斯</li><li data-value="TJ" data-amount="0" data-label="塔吉克斯坦">塔吉克斯坦</li><li data-value="SN" data-amount="0" data-label="塞内加尔">塞内加尔</li><li data-value="RS" data-amount="0" data-label="塞尔维亚">塞尔维亚</li><li data-value="SL" data-amount="0" data-label="塞拉利昂">塞拉利昂</li><li data-value="SC" data-amount="0" data-label="塞舌尔">塞舌尔</li><li data-value="MX" data-amount="0" data-label="墨西哥">墨西哥</li><li data-value="TG" data-amount="0" data-label="多哥">多哥</li><li data-value="DM" data-amount="0" data-label="多米尼克">多米尼克</li><li data-value="DO" data-amount="0" data-label="多米尼加共和国">多米尼加共和国</li><li data-value="AX" data-amount="0" data-label="奥兰群岛">奥兰群岛</li><li data-value="VE" data-amount="0" data-label="委内瑞拉">委内瑞拉</li><li data-value="BD" data-amount="0" data-label="孟加拉国">孟加拉国</li><li data-value="AO" data-amount="0" data-label="安哥拉">安哥拉</li><li data-value="AI" data-amount="0" data-label="安圭拉">安圭拉</li><li data-value="AG" data-amount="0" data-label="安提瓜和巴布达">安提瓜和巴布达</li><li data-value="AD" data-amount="0" data-label="安道尔">安道尔</li><li data-value="FM" data-amount="0" data-label="密克罗尼西亚">密克罗尼西亚</li><li data-value="NI" data-amount="0" data-label="尼加拉瓜">尼加拉瓜</li><li data-value="NG" data-amount="0" data-label="尼日利亚">尼日利亚</li><li data-value="NE" data-amount="0" data-label="尼日尔">尼日尔</li><li data-value="NP" data-amount="0" data-label="尼泊尔">尼泊尔</li><li data-value="PS" data-amount="0" data-label="巴勒斯坦领土">巴勒斯坦领土</li><li data-value="BS" data-amount="0" data-label="巴哈马">巴哈马</li><li data-value="PK" data-amount="0" data-label="巴基斯坦">巴基斯坦</li><li data-value="BB" data-amount="0" data-label="巴巴多斯">巴巴多斯</li><li data-value="PG" data-amount="0" data-label="巴布亚新几内亚">巴布亚新几内亚</li><li data-value="PY" data-amount="0" data-label="巴拉圭">巴拉圭</li><li data-value="PA" data-amount="0" data-label="巴拿马">巴拿马</li><li data-value="BH" data-amount="0" data-label="巴林">巴林</li><li data-value="BR" data-amount="0" data-label="巴西">巴西</li><li data-value="BF" data-amount="0" data-label="布基纳法索">布基纳法索</li><li data-value="BV" data-amount="0" data-label="布维特岛">布维特岛</li><li data-value="BI" data-amount="0" data-label="布隆迪">布隆迪</li><li data-value="PW" data-amount="0" data-label="帕劳">帕劳</li><li data-value="CK" data-amount="0" data-label="库克群岛">库克群岛</li><li data-value="CW" data-amount="0" data-label="库拉索">库拉索</li><li data-value="KY" data-amount="0" data-label="开曼群岛">开曼群岛</li><li data-value="SB" data-amount="0" data-label="所罗门群岛">所罗门群岛</li><li data-value="TK" data-amount="0" data-label="托克劳">托克劳</li><li data-value="NO" data-amount="0" data-label="挪威">挪威</li><li data-value="MD" data-amount="0" data-label="摩尔多瓦">摩尔多瓦</li><li data-value="MA" data-amount="0" data-label="摩洛哥">摩洛哥</li><li data-value="MC" data-amount="0" data-label="摩纳哥">摩纳哥</li><li data-value="BN" data-amount="0" data-label="文莱">文莱</li><li data-value="FJ" data-amount="0" data-label="斐济">斐济</li><li data-value="SZ" data-amount="0" data-label="斯威士兰">斯威士兰</li><li data-value="SJ" data-amount="0" data-label="斯瓦尔巴特和扬马延">斯瓦尔巴特和扬马延</li><li data-value="LK" data-amount="0" data-label="斯里兰卡">斯里兰卡</li><li data-value="SG" data-amount="0" data-label="新加坡">新加坡</li><li data-value="NC" data-amount="0" data-label="新喀里多尼亚">新喀里多尼亚</li><li data-value="NZ" data-amount="0" data-label="新西兰">新西兰</li><li data-value="JP" data-amount="0" data-label="日本">日本</li><li data-value="CL" data-amount="0" data-label="智利">智利</li><li data-value="IM" data-amount="0" data-label="曼岛">曼岛</li><li data-value="KP" data-amount="0" data-label="朝鲜">朝鲜</li><li data-value="KH" data-amount="0" data-label="柬埔寨">柬埔寨</li><li data-value="GG" data-amount="0" data-label="根西岛">根西岛</li><li data-value="GD" data-amount="0" data-label="格林纳达">格林纳达</li><li data-value="GL" data-amount="0" data-label="格陵兰">格陵兰</li><li data-value="GE" data-amount="0" data-label="格鲁吉亚">格鲁吉亚</li><li data-value="VA" data-amount="0" data-label="梵蒂冈">梵蒂冈</li><li data-value="MR" data-amount="0" data-label="毛里塔尼亚">毛里塔尼亚</li><li data-value="MU" data-amount="0" data-label="毛里求斯">毛里求斯</li><li data-value="TO" data-amount="0" data-label="汤加">汤加</li><li data-value="SA" data-amount="0" data-label="沙特阿拉伯">沙特阿拉伯</li><li data-value="TF" data-amount="0" data-label="法属南部领地">法属南部领地</li><li data-value="MF" data-amount="0" data-label="法属圣马丁">法属圣马丁</li><li data-value="GF" data-amount="0" data-label="法属圭亚那">法属圭亚那</li><li data-value="PF" data-amount="0" data-label="法属波利尼西亚">法属波利尼西亚</li><li data-value="FO" data-amount="0" data-label="法罗群岛">法罗群岛</li><li data-value="PR" data-amount="0" data-label="波多黎各">波多黎各</li><li data-value="BA" data-amount="0" data-label="波斯尼亚和黑塞哥维那">波斯尼亚和黑塞哥维那</li><li data-value="TH" data-amount="0" data-label="泰国">泰国</li><li data-value="JE" data-amount="0" data-label="泽西岛">泽西岛</li><li data-value="ZW" data-amount="0" data-label="津巴布韦">津巴布韦</li><li data-value="HN" data-amount="0" data-label="洪都拉斯">洪都拉斯</li><li data-value="HT" data-amount="0" data-label="海地">海地</li><li data-value="AU" data-amount="0" data-label="澳大利亚">澳大利亚</li><li data-value="JM" data-amount="0" data-label="牙买加">牙买加</li><li data-value="TC" data-amount="0" data-label="特克斯和凯科斯群岛">特克斯和凯科斯群岛</li><li data-value="TT" data-amount="0" data-label="特立尼达和多巴哥">特立尼达和多巴哥</li><li data-value="TA" data-amount="0" data-label="特里斯坦-达库尼亚群岛">特里斯坦-达库尼亚群岛</li><li data-value="BO" data-amount="0" data-label="玻利维亚">玻利维亚</li><li data-value="NR" data-amount="0" data-label="瑙鲁">瑙鲁</li><li data-value="CH" data-amount="0" data-label="瑞士">瑞士</li><li data-value="GP" data-amount="0" data-label="瓜德罗普">瓜德罗普</li><li data-value="WF" data-amount="0" data-label="瓦利斯和富图纳">瓦利斯和富图纳</li><li data-value="VU" data-amount="0" data-label="瓦努阿图">瓦努阿图</li><li data-value="RE" data-amount="0" data-label="留尼汪">留尼汪</li><li data-value="BY" data-amount="0" data-label="白俄罗斯">白俄罗斯</li><li data-value="BM" data-amount="0" data-label="百慕大">百慕大</li><li data-value="PN" data-amount="0" data-label="皮特凯恩群岛">皮特凯恩群岛</li><li data-value="GI" data-amount="0" data-label="直布罗陀">直布罗陀</li><li data-value="FK" data-amount="0" data-label="福克兰群岛">福克兰群岛</li><li data-value="KW" data-amount="0" data-label="科威特">科威特</li><li data-value="KM" data-amount="0" data-label="科摩罗">科摩罗</li><li data-value="CI" data-amount="0" data-label="科特迪瓦">科特迪瓦</li><li data-value="CC" data-amount="0" data-label="科科斯（基林）群岛">科科斯（基林）群岛</li><li data-value="XK" data-amount="0" data-label="科索沃">科索沃</li><li data-value="PE" data-amount="0" data-label="秘鲁">秘鲁</li><li data-value="TN" data-amount="0" data-label="突尼斯">突尼斯</li><li data-value="SO" data-amount="0" data-label="索马里">索马里</li><li data-value="JO" data-amount="0" data-label="约旦">约旦</li><li data-value="NA" data-amount="0" data-label="纳米比亚">纳米比亚</li><li data-value="NU" data-amount="0" data-label="纽埃">纽埃</li><li data-value="MM" data-amount="0" data-label="缅甸">缅甸</li><li data-value="US" data-amount="0" data-label="美国">美国</li><li data-value="UM" data-amount="0" data-label="美国本土外小岛屿">美国本土外小岛屿</li><li data-value="VI" data-amount="0" data-label="美属维京群岛">美属维京群岛</li><li data-value="AS" data-amount="0" data-label="美属萨摩亚">美属萨摩亚</li><li data-value="LA" data-amount="0" data-label="老挝">老挝</li><li data-value="KE" data-amount="0" data-label="肯尼亚">肯尼亚</li><li data-value="SD" data-amount="0" data-label="苏丹">苏丹</li><li data-value="SR" data-amount="0" data-label="苏里南">苏里南</li><li data-value="IO" data-amount="0" data-label="英属印度洋领地">英属印度洋领地</li><li data-value="VG" data-amount="0" data-label="英属维京群岛">英属维京群岛</li><li data-value="BQ" data-amount="0" data-label="荷兰加勒比区">荷兰加勒比区</li><li data-value="SX" data-amount="0" data-label="荷属圣马丁">荷属圣马丁</li><li data-value="AN" data-amount="0" data-label="荷属安的列斯群岛">荷属安的列斯群岛</li><li data-value="MZ" data-amount="0" data-label="莫桑比克">莫桑比克</li><li data-value="LS" data-amount="0" data-label="莱索托">莱索托</li><li data-value="PH" data-amount="0" data-label="菲律宾">菲律宾</li><li data-value="SV" data-amount="0" data-label="萨尔瓦多">萨尔瓦多</li><li data-value="WS" data-amount="0" data-label="萨摩亚">萨摩亚</li><li data-value="MN" data-amount="0" data-label="蒙古">蒙古</li><li data-value="MS" data-amount="0" data-label="蒙特塞拉特">蒙特塞拉特</li><li data-value="EH" data-amount="0" data-label="西撒哈拉">西撒哈拉</li><li data-value="NF" data-amount="0" data-label="诺福克岛">诺福克岛</li><li data-value="BJ" data-amount="0" data-label="贝宁">贝宁</li><li data-value="ZM" data-amount="0" data-label="赞比亚">赞比亚</li><li data-value="GQ" data-amount="0" data-label="赤道几内亚">赤道几内亚</li><li data-value="HM" data-amount="0" data-label="赫德岛和麦克唐纳群岛">赫德岛和麦克唐纳群岛</li><li data-value="VN" data-amount="0" data-label="越南">越南</li><li data-value="DG" data-amount="0" data-label="迪戈加西亚岛">迪戈加西亚岛</li><li data-value="AZ" data-amount="0" data-label="阿塞拜疆">阿塞拜疆</li><li data-value="AF" data-amount="0" data-label="阿富汗">阿富汗</li><li data-value="DZ" data-amount="0" data-label="阿尔及利亚">阿尔及利亚</li><li data-value="AL" data-amount="0" data-label="阿尔巴尼亚">阿尔巴尼亚</li><li data-value="AE" data-amount="0" data-label="阿拉伯联合酋长国">阿拉伯联合酋长国</li><li data-value="OM" data-amount="0" data-label="阿曼">阿曼</li><li data-value="AR" data-amount="0" data-label="阿根廷">阿根廷</li><li data-value="AC" data-amount="0" data-label="阿森松岛">阿森松岛</li><li data-value="AW" data-amount="0" data-label="阿鲁巴">阿鲁巴</li><li data-value="KR" data-amount="0" data-label="韩国">韩国</li><li data-value="MK" data-amount="0" data-label="马其顿">马其顿</li><li data-value="MV" data-amount="0" data-label="马尔代夫">马尔代夫</li><li data-value="MW" data-amount="0" data-label="马拉维">马拉维</li><li data-value="MQ" data-amount="0" data-label="马提尼克">马提尼克</li><li data-value="MY" data-amount="0" data-label="马来西亚">马来西亚</li><li data-value="YT" data-amount="0" data-label="马约特">马约特</li><li data-value="MH" data-amount="0" data-label="马绍尔群岛">马绍尔群岛</li><li data-value="MG" data-amount="0" data-label="马达加斯加">马达加斯加</li><li data-value="ML" data-amount="0" data-label="马里">马里</li><li data-value="LB" data-amount="0" data-label="黎巴嫩">黎巴嫩</li><li data-value="ME" data-amount="0" data-label="黑山共和国">黑山共和国</li>                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vat-info">
+                                        <div class="vat-info-ico">i</div>
+                                        <div class="vat-info-tooltip">
+                                            <div class="icon-x vat-close"></div>
+                                            <strong>欧盟增值税规则</strong><br />
+                                            法律条款中明文规定，通过选择其中一个选项，您需要正确无误的揭示您所在国家以及您作为增值税纳税人的身份。基于您提供增值税费用信息，我们可以将其计算到您的订单总额中。<br />
+                                            <a href="/supporthub/?category=4&subcategory=203&question=153" target="_blank">了解更多</a>
+                                            <div class="arrow_box"></div>
+                                        </div>
+                                    </div>
+                                    <div class="vat-sum">
+                                        <span class="price">0.00 ￥</span> 将被添加到您的订单                                    </div>
+                                    <div class="vat-sum-zong">
+                                        <div class="vat-sum-zong-ok">
+                                            您要支付的总金额: <span></span>
+                                        </div>
+                                        <div class="vat-sum-zong-error">
+                                            总金额超过了手机支付最大限额。                                        </div>
+                                    </div>
+                                </div>
+                                <div class="vat-bottom">
+                                    <hr />
+                                    <input type="text" name="email" class="vat-input" id="input_email" style="display: none;" placeholder="您的电子邮件地址" />
+                                    <div class="vat-check">
+                                        <div id="vat-agreement-checkbox" class="styled-checkbox"><i class="icon-tick"></i></div>
+                                        <div class="vat-label">我已阅读并接受<a target="_blank" href="/terms-and-conditions">条款 & 条件</a> 并特此确认我的 <a href="javascript:void(0);" onclick="javascript:countrySelector.getCountrySelection();">账单地址</a>。</span></div>
+                                        <input type="checkbox" id="checkbox_vat" name="agreement" value="1" class="checkbox" style="display: none;">
+                                    </div>
+                                    <div class="vat-button">继续</div>
+                                </div>
+                                                    </div>
+                    </div>
+
+                                    
+                <div class="fb_div">
+                    <div class="fb_div2">
+                                                    <a href="https://www.g2a.com/media/activationinstructions/0416/95d1d0d5a48b1de529226273de984320.pdf" class="fb_div2_button button_inst_activate" target="_blank">
+                                <span class="icon-pdf inst_activate_icon"></span>如何激活？                            </a>
+                        
+                        <div class="fb_div2_button button_mp_shield" style="display: none;">
+                            <span class="icon-shield mp_shield_icon"></span>带有G2A 保护盾的购买？                        </div>
+                    </div>
+                </div>
+
+                                    <a href="https://www.g2a.com/?g=15">
+                    <img class="steam-banner" src="/skin/frontend/gate/default/images/steamitem/banners/product_page-v01.jpg" >
+                </a>
+                
+                <div id="about-game" class="jq-marketplace-product-info">
+                    <div class="new-offers">
+                        <div class="m-row">
+                            <h1>从这些卖家处购买产品：</h1>
+                            <div class="new-offers-shield">
+                                <div class="shield-check icon-tick"></div>
+                                <div class='spriteProduct shield2 shield-logo'></div>
+                                <span class="icon-question_mark2 shield-info"></span>
+                                <span class="shield-price">22.31 ￥</span>
+                            </div>
+                        </div>
+
+                                                    <div class="steam-only auctions">
+                                <div class="column-user">用户</div>
+                                <div class="column-exterior">外观</div>
+                                <div class="column-price">价格</div>
+                            </div>
+                        
+                        <div class="mp-user-wrapper">
+                            <div class="mp-user-container">
+                                <table class="mp-user-rating"></table>
+                            </div>
+                            <div class="new-offers-expand-container">
+                                <div class="new-offers-shadow-separator"></div>
+                                <div class="new-offers-expand">
+                                    <button class="show-more">查看所有卖家 <span></span></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+        <div id="recommendations-container" class="product-page">
+        <div class="recommendations-head">Frequently bought with this item</div>
+        <div class="recommendations-content">
+            <div class="recommendations-items">
+                                    <div class="recommendations-item">
+                        <div class="recommendations-item-content">
+                            <a href="/glove-case.html" title="Glove Case">
+                                <img class="recommendations-item-content-img" src="https://images.g2a.com/m/230x336/0x1x1/small_image/t/m/f17ccfacfac6_tmpSteamdbc36e293027a386332efdb61deb378a.png" alt=""/>
+                                <div class="recommendations-item-content-info">
+                                    <span class="recommendations-item-content-title">Glove Case</span>
+                                    <div class="rec-min-price-label">从</div>
+                                    <strong class="rec-min-price"><span class="price">0.22 ￥</span></strong>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="recommendations-item">
+                        <div class="recommendations-item-content">
+                            <a href="/the-xenti-corporation.html" title="The Xenti Corporation">
+                                <img class="recommendations-item-content-img" src="https://images.g2a.com/m/230x336/0x1x1/small_image/t/m/f9a524bdb69c_tmpSteambf6223cd183e35b7f6de23a2e26f1cf6.png" alt=""/>
+                                <div class="recommendations-item-content-info">
+                                    <span class="recommendations-item-content-title">The Xenti Corporation</span>
+                                    <div class="rec-min-price-label">从</div>
+                                    <strong class="rec-min-price"><span class="price">0.45 ￥</span></strong>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="recommendations-item">
+                        <div class="recommendations-item-content">
+                            <a href="/the-console.html" title="The Console">
+                                <img class="recommendations-item-content-img" src="https://images.g2a.com/m/230x336/0x1x1/small_image/t/m/d6f1f5a3cfbd_tmpSteam0f8c1c0222368d4895820fe067d6e8a0.png" alt=""/>
+                                <div class="recommendations-item-content-info">
+                                    <span class="recommendations-item-content-title">The Console</span>
+                                    <div class="rec-min-price-label">从</div>
+                                    <strong class="rec-min-price"><span class="price">0.22 ￥</span></strong>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="recommendations-item">
+                        <div class="recommendations-item-content">
+                            <a href="/the-game-logo.html" title="The Game Logo">
+                                <img class="recommendations-item-content-img" src="https://images.g2a.com/m/230x336/0x1x1/small_image/t/m/0339d3197f4b_tmpSteame9c4fc9dde652c9d51a5d1bdb8265655.png" alt=""/>
+                                <div class="recommendations-item-content-info">
+                                    <span class="recommendations-item-content-title">The Game Logo</span>
+                                    <div class="rec-min-price-label">从</div>
+                                    <strong class="rec-min-price"><span class="price">0.37 ￥</span></strong>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            if ('undefined' === typeof window.dataLayer) {
+                window.dataLayer = [];
+            }
+
+            if ('function' === typeof getRecommendedProductsCookie) {
+                var recommendedProductVisible = true;
+
+                if (!getRecommendedProductsCookie()) {
+                    jQuery('#recommendations-container').hide();
+                    recommendedProductVisible = false;
+                }
+
+                dataLayer.push({
+                    'recommendations': {
+                        'visible': recommendedProductVisible
+                    }
+                });
+            }
+
+            jQuery('.recommendations-item a').on('click', function () {
+                var title = jQuery(this).closest('.recommendations-item').find('.recommendations-item-content-title a').attr('title');
+                dataLayer.push({
+                    'event': 'recommendationsClickProduct',
+                    'recommendations': {
+                        'product': title
+                    }
+                })
+                ;
+            });
+        });
+    </script>
+                    <div id="steam-app-info" class="steam-type-info">
+                                <i class="ico-steam-games-730 appid"></i>
+                <h4 id="app-name">Counter Strike: Global Offensive</h4>
+            </div>
+    
+</div>
+    <script>
+
+                    jQuery.post('https://www.g2a.com/steam/index/threedplushref/', {"name": 'Glove Case Key'},  function(data) {
+                if (data.html) {
+                    jQuery('.wear-product-page').after(data.html);
+                    jQuery('.threeDPlusLink').fadeIn('slow');
+                }
+            }, 'json');
+        
+
+        var shieldEnabled = 'Enabled';
+        var productData = {
+            'products': [
+                {"id":"74363","name":"Glove Case Key","category":"In-game Items","brand":"","price":"","dimension1":"","dimension2":"","dimension3":"Disabled","dimension4":"N","dimension5":"Steam Item","dimension6":"","dimension7":"steam"}            ]
+        };
+        productData.products[0].dimension3 = shieldEnabled;
+
+        if('function' === typeof dataLayerPush) {
+            dataLayerPush({}, false, '', 'product');
+        }
+
+        if ('undefined' !== typeof window.insider_object && 'function' === typeof prepareProduct) {
+            window.insider_object.page.type = 'Product';
+            window.insider_object.product = prepareProduct(productData.products[0]);
+        }
+
+        //sociomantic
+        if (
+            'undefined' !== typeof contentLanguage &&
+            'undefined' !== typeof socLanguages &&
+            'undefined' !== typeof socLanguages[contentLanguage] &&
+            'undefined' !== typeof viewSocLayer
+        ) {
+            var storeName = 'polish';
+
+            switch(contentLanguage){
+                case 'de':
+                    storeName = 'german';
+                    break;
+                case 'en-gb':
+                    storeName = 'great_britain';
+                    break;
+                case 'en-us':
+                    storeName = 'englishus';
+                    break;
+            }
+
+            viewSocLayer.soc_layer.country = socLanguages[contentLanguage];
+            viewSocLayer.soc_layer['product'] = {
+                identifier: "74363_27",
+                fn: productData.products[0].name,
+                category: productData.products[0].dimension6,
+                brand: productData.products[0].brand, //publisher name
+                currency: 'CNY', //Currency code
+                url: window.location.href.split('?')[0] + '?___store=' + storeName, //url with store name
+                photo: 'https://images.g2a.com/m/211x289/1x1x1/thumbnail/t/m/27c775c95dad_tmpSteama5f9cbfc745e3ff15bb3e0aed08355c1.png',
+                price: null,
+                amount: null
+            };
+
+            dataLayer.push(viewSocLayer);
+        }
+
+        jQuery('.jq-catalog-product-redirect').on('click', function () {
+            var boxProductDataClick = {
+                'products': productData.products
+            };
+            boxProductDataClick.products[0].dimension3 = shieldEnabled;
+            boxProductDataClick.products[0].price = jQuery('#selectedSeller').attr('data-seller-price');
+            boxProductDataClick.products[0].quantity = 1;
+            boxProductDataClick.products[0].dimension1 = jQuery('#selectedSeller').attr('data-seller-country');
+            boxProductDataClick.products[0].dimension2 = jQuery('#selectedSeller').attr('data-seller-review');
+            dataLayerPush(boxProductDataClick, 'add', 'addToBasket', '');
+        });
+
+        jQuery('#payButton').on('click', function(){
+            if('function' === typeof dataLayerExpressCheckout) {
+                dataLayerExpressCheckout(productData, 'Pay by phone');
+            }
+        });
+        jQuery('.prod_paypal_express').on('click', function(){
+            if('function' === typeof dataLayerExpressCheckout) {
+                dataLayerExpressCheckout(productData, 'PayPal');
+            }
+        });
+
+        </script>
+</div>
+<div id="jq-mp-ratings">
+    <div id="user-rating"></div>
+</div>
+<div class="mp-popup-wrapper exclusive-product-popup" id="seller-no-offer">
+    <div class="mp-user-popup">
+        <div class="font-icomoon icon-x mp-close" onclick="jQuery('#seller-no-offer').fadeOut();" ></div>
+        <h2>该卖家无报价</h2>
+        <p>卖家既没有卖掉该产品也没有从报价中移除该产品。</p>
+        <input type="button" value="查看其他报价" />
+    </div>
+</div>
+<div class="mp-popup-wrapper exclusive-product-popup" id="seller-no-other-offers">
+    <div class="mp-user-popup">
+        <h2>没有关于该产品的报价</h2>
+        <p>很不幸，我们现在还没有该产品。</p>
+        <p>您仍可以在G2A.com查看其他产品。</p>
+        <input type="button" value="查看其他产品" />
+    </div>
+</div>
+
+<script type="text/javascript">
+    var lifetime = 3600;
+    var expireAt = Mage.Cookies.expires;
+    if (lifetime > 0) {
+        expireAt = new Date();
+        expireAt.setTime(expireAt.getTime() + lifetime * 1000);
+    }
+    Mage.Cookies.set('external_no_cache', 1, expireAt);
+</script>
+</div>
+            </div>
+
+            <div class="widget-tp-reviews" store="zh_CN">
+    <div class="widget-tp-content">
+        <div class="opinieBox tp-reviews">
+            <div class="i-opinions">
+                <div class="tp-link">
+                    <span>看下我们的用户是如何评价我们的</span>
+                    <div class="tp-logo-big"></div>
+                </div>
+                <div class="tp-box">
+                    <div class="o-header">
+                        <a href="" target="_blank">
+                            <div class="o-logo">
+                                <img src="https://www.g2a.com/skin/frontend/gate/default/images/footer_s_g2a_new-v02.png" alt="G2A reviews"/>
+                            </div>
+                        </a>
+                        <div class="o-newsumary">
+                            <div class="os-1"><strong class="tp-score"></strong></div>
+                            <div class="os-1 os-2">
+                                <strong class="tp-count"></strong><br/>评价                            </div>
+                        </div>
+                        <a href="" target="_blank">
+                            <button>查看所有评价</button>
+                        </a>
+                    </div>
+                    <div class="tp_quote icon-quote"></div>
+                    <ul class="o-comments tp-reviews"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>            <a href="https://www.g2a.com/g2a-direct-game-spotlight.html" class="vatmoss-page-banner">
+                <div class="inner">
+                    <div class="logo-direct"></div>
+                    <p><b>立即从开发者处购买！</b></p>
+                    <div class="btn-green">立即购买</div>
+                </div>
+            </a>
+            <div class="clear"></div>
+                    </div>
+        
+        <div id="footer-wrap">
+    <div id="footer3">
+        <div id="footer">
+            <div class="footer-top-separator"></div>
+            <div class="foo-left">
+                <h5>了解我们</h5>
+                <a href="https://www.g2a.co" target="_blank">
+                <div id="getToKnows">
+                    <div class="visitG2a">
+                        <div class="icon-g2a_logo"></div>
+                        访问我们公司网站                    </div>
+                </div>
+                </a>
+                <div id="social">
+                                                                <a href="http://weibo.com/G2Acom" target="_blank" class="icon icon-sinaweibo"><span>G2A.COM - Weibo</span></a>
+                                    </div>
+            </div>
+
+            <div class="foo-center">
+                <h5>支付方式</h5>
+                <ul class="payment-method">
+                    <li class="payment-method-g2a-pay active" style="width: 148px"></li>
+                                        <li class="payment-method-other" > 其它支付方式</li>
+                </ul>
+
+                <ul class="payment-method-icons">
+                    <li class="pay active">
+                        <div class="pay-lc">
+                        <a class="now-acepting-paypal" href="#" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700');return false;" title="How PayPal Works">
+                            <div class="paypal-na"></div>
+                            <div class="paypal-mob"></div>
+                        </a>
+                                                    </div>
+
+                        <a href="https://pay.g2a.com/" target="_blank" title="G2A PAY All-in-one payment">
+                            <div class="payG2a">
+                                <span>G2A PAY All-in-one payment</span>
+                                                                <div class="payG2a_1"></div>
+                                                                <div class="payG2a_2"></div>
+                                                                <div class="payG2a_3"></div>
+                                                                <div class="payG2a_4"></div>
+                                                                <div class="payG2a_5"></div>
+                                                                <div class="payG2a_6"></div>
+                                                                <div class="payG2a_7"></div>
+                                                                <div class="payG2a_8"></div>
+                                                                <div class="payG2a_9"></div>
+                                                                <div class="payG2a_10"></div>
+                                                                <div class="payG2a_11"></div>
+                                                                <div class="payG2a_12"></div>
+                                                                <div class="payG2a_13"></div>
+                                                                <div class="payG2a_14"></div>
+                                                                <div class="payG2a_15"></div>
+                                                                <div class="payG2a_16"></div>
+                                                                <div class="payG2a_17"></div>
+                                                            </div>
+                        </a>
+                        <a href="https://shield.g2a.com/" target="_blank" title="G2A Shield">
+                            <div class="g2ashield"><span>G2A保护盾</span></div>
+                        </a>
+                    </li>
+                                        <li class="other">
+                        <a href="https://pay.g2a.com/" target="_blank">
+                            <div class="altMethod">
+                                                                    <div class="altMethod_1"></div>
+                                                                    <div class="altMethod_2"></div>
+                                                                    <div class="altMethod_3"></div>
+                                                                    <div class="altMethod_4"></div>
+                                                                    <div class="altMethod_5"></div>
+                                                                    <div class="altMethod_6"></div>
+                                                                    <div class="altMethod_7"></div>
+                                                                    <div class="altMethod_8"></div>
+                                                                    <div class="altMethod_9"></div>
+                                                                    <div class="altMethod_10"></div>
+                                                                    <div class="altMethod_11"></div>
+                                                                    <div class="altMethod_12"></div>
+                                                                    <div class="altMethod_13"></div>
+                                                                    <div class="altMethod_14"></div>
+                                                                    <div class="altMethod_15"></div>
+                                                            </div>
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="cookieLeft" id="cookiebar"><div>在<span class="icon icon-g2a_logo"></span>的Cookies</div></div>
+
+                <div class="mp-popup-wrapper" id="cookiebarPopup" data-rel="0" style="display: none; overflow: auto;">
+                    <div class="mp-user-popup" style=" width: 575px;">
+                        <div class="font-icomoon icon-x mp-close" onclick="jQuery('#cookiebarPopup').fadeOut();" ></div>
+                        <h1>G2A.com上的Cookies</h1>
+
+                        <div class="m-row" style="margin: 0">
+                            <p class="bold">我们使用您的cookie以便在我们的网站上给您最好的体验。通过继续浏览我们的网站，您同意我们的 <a href='/privacy-policy'> 隐私政策</a> 和 cookie 技术的使用。</p>
+                        </div>
+                        <div class="m-row">
+                            <div class="closecookiebar">
+                                <span class="font-icomoon icon-tick"></span>
+                                同意并继续                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="foo-right">
+                
+            </div>
+            <div class="clear"></div>
+
+            <div class="partners-wrapper">
+                <h5>我们的合作伙伴</h5>
+                <div class="partners">
+                    <a href="http://www.cipsoft.com" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo1 "></div></a>
+                    <a href="http://gameforge.com" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo2 "></div></a>
+                    <a href="http://blackmoondev.com/" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo3 "></div></a>
+                    <a href="http://www.keenswh.com/" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo4 "></div></a>
+                    <a href="http://www.grindinggear.com/ " target="_blank" class="greyscales" rel="nofollow"><div class="p_logo5 "></div></a>
+                    <a href="http://www.joymax.com" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo6 "></div></a>
+                    <a href="http://www.hirezstudios.com/" target="_blank" class="greyscales" rel="nofollow"><div class="p_logo7 "></div></a>
+                    <a href="https://www.g2a.co/presentation/china.html#partners" target="_blank" class="greyscales">
+                        <div class="seeAllPartners">
+                            <div class="rowUp">查看所有 <span class="icon-arrow-right"></span></div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div id="foot-bottom">
+            <div class="foo-left">
+                <a href="https://www.g2a.co/why-g2a#certificates" target="_blank"><div class="iconsS"></div></a>
+                <div class="g2a-rights">版权所有 &copy; 2017 G2A.COM</div>
+            </div>
+            <div class="foo-center">
+                <div class="link_sitemap">
+                    <span>快速链接:</span>
+                    <a href="/shop/sitemap/categories">所有类别</a>,
+                    <a href="/supporthub">客服台</a>,
+                    <a href="https://news.g2a.com/?utm_source=g2a.com&utm_campaign=g2agroup&utm_medium=footer.quick.links">G2A 新闻</a>
+                </div>
+
+                <div class="g2a-address">
+                    <strong>G2A.COM Limited</strong><br />36/F, Tower Two, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong
+                    <strong>公司注册号:</strong> 2088957 <span class="ga-separator"></span>
+                    <strong>商业登记号码:</strong> 63264201
+                    <p style="margin-top:10px">
+                        客户(支持)服务由G2A,COM公司授权
+                                <b>地址:</b>G2A.COM Sp. z.o.o., 26/7 Moniuszki Street, 31-523 Cracow, Poland
+                                                                <b>客服支持邮件地址:</b>support@g2a.com                    </p>
+                </div>
+
+                <p>
+                    使用本网站即表示接受<a href="/terms-and-conditions">条款和条件</a>和<a href="/privacy-policy">隐私政策</a>。所有版权，商标，服务标记属于相应的所有者 <br />
+                </p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="g2a-news-in-footer clearfix">
+            <span>时刻获取最新消息！</span>
+            <span>千万不要错过最有趣的游戏&科技新闻。</span>
+            <a href="https://news.g2a.com/?utm_source=g2a.com&utm_campaign=g2agroup&utm_medium=footer.banner"><button class="button-blue">立即查看！</button></a>
+        </div>
+        <div class="mobile-download-app clearfix">
+            <div class="g2a-info">
+                <div class="mobile-download-app-logo icon-g2a_logo"></div>
+                <strong>快来安装G2A App</strong>
+                <p>您可以随时随地的购买游戏！</p>
+            </div>
+            <div class="download-buttons clearfix">
+                <a href="https://itunes.apple.com/gb/app/g2a/id895515193?mt=8">
+                    <img src="https://www.g2a.com/skin/frontend/gate/default/images/widgets/mobile_footer/g2a-com-on-app-store.png" alt="苹果商店中的G2A.COM"/>
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=com.g2a.marketplace">
+                    <img src="https://www.g2a.com/skin/frontend/gate/default/images/widgets/mobile_footer/g2a-com-android-app.png" alt="安卓商店中的G2A.COM"/>
+                </a>
+                <a href="https://www.microsoft.com/en-us/store/apps/g2acom/9nblggh4m7v8">
+                    <img src="https://www.g2a.com/skin/frontend/gate/default/images/widgets/mobile_footer/g2a-com-windows-phone-app.png" alt="Windows手机应用中的G2A.COM"/>
+                </a>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <script type="text/javascript">
+        jQuery(
+            '#footer-wrap #footer .foo-left #social a span, li.pay.active .payG2a span,' +
+            '.payment-method-icons .payG2a span,' +
+            '.payment-method-icons .g2ashield span, ' +
+            '.opinieBox .o-logo span'
+        ).attr('aria-hidden', 'true');
+
+        jQuery(function(){
+            if (typeof searchLabel != 'undefined') {
+                quickSearch.labels = searchLabel;
+                quickSearch.isGAAvailable = 0;
+                quickSearch.accountIdGA = 'UA-30175270-2';
+                quickSearch.lang = 'zh_CN';
+                quickSearch.init();
+            }
+        });
+    </script>
+
+<div class="clear"></div>
+    <div class="banner-fixed-footer">
+        <div class="bottom-footer-wrapper">
+            <div class="center-foo">
+                <a href="https://www.g2a.co/presentation/china.html" target="_blank" class="globe icon-g2a_logo"><a/>
+            </div>
+            <div class="right-foo"> <a id="button-footer-bottom" href="https://www.g2a.co" target="_blank" class="orange-btn"><strong>了解</strong>我们 <span class='left-arrows'></span>  </a></div>
+        </div>
+    </div>
+</div>
+        <div id="adding-to-cart" style="display: none;" >
+            <div id="adding-to-cart-popup">
+                <div class="spinner">
+                    <div class="bounce1"></div>
+                    <div class="bounce2"></div>
+                    <div class="bounce3"></div>
+                </div>
+                <div class="adding-to-cart-popup-text">更新购物车</div>
+            </div>
+        </div>
+
+        <div id="nakladka" style="display: none">
+            <div id="nakladka_margin">
+                <div class="nakladka-popup">
+                    <img src="https://www.g2a.com/skin/frontend/gate/default/images/ajax-loader-g2a-v01.gif" alt="loader" width="32" height="32"/><h1>将重新定向到支付网关...</h1>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+
+        <!-- POPUPS -->
+                <div class="expandPipePopup">
+    <div class="expandPopupContent">
+        <div class="closePopup"><i class="closePopupGallery icon-x"></i></div>
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+        <div class="imagesContent">
+
+        </div>
+    </div>
+</div>
+<script>
+    jQuery(document).ready(function() {
+        jQuery(document).on('click', 'button.buttonExpand', function () {
+            var content = jQuery('.expandPipePopup');
+            var productId = jQuery(this).attr('data-product-id');
+            var auctionId = jQuery(this).attr('data-auction-id');
+
+            content.find('.imagesContent').empty();
+            content.find('.spinner').show();
+
+            content.fadeIn('slow', function() {
+                var data = {'auctionId': auctionId, 'productsId': productId};
+                jQuery.post('/steam/index/mediagallery', data, function(data) {
+                    if (data.html) {
+                        content.find('.spinner').hide();
+                        content.find('.imagesContent').empty().html(data.html);
+                    }
+                }, 'json');
+            });
+        });
+
+        jQuery('.expandPipePopup').on('click', function(e) {
+            if (jQuery(e.target).hasClass('expandPipePopup')) {
+                hidePopup();
+            }
+        });
+
+        jQuery(document).on('keydown', function(event){
+            if (27 == event.which) {
+                hidePopup();
+            }
+        });
+
+        jQuery(document).on('click', '.closePopupGallery', function(){
+            hidePopup();
+        });
+    });
+
+    function hidePopup()
+    {
+        jQuery('.expandPipePopup').fadeOut('slow', function() {
+            jQuery(this).find('.imagesContent').empty();
+            jQuery(this).find('.spinner').show();
+        });
+    }
+</script>        <div class="g2a-shield-popup-overlay mp-popup-wrapper jq-marketplace-shieldpopupinfo" style="display: none;">
+    <div class="g2a-shield-popup">
+        <div class="g2a-shield-pp-header">
+            <img src="/skin/frontend/gate/default/images/marketplace/shield/pp-header-product-v01.png" alt="" class="mps-header" />
+            <div class="icon-x gs-shield-pp-close" onclick="jQuery('.g2a-shield-popup-overlay').hide();"></div>
+        </div>
+
+        <div class="g2a-shield-pp-content">
+            <div class="mp-popup-content" style="text-align: center">
+                <div class="js-rating-content">
+                    <p>
+                        您正在从商城用户处购买                    </p>
+                    <div class="rating-wrapper">
+                        <div class="jq-rating-ajax-insert"></div>
+                    </div>
+                </div>
+
+                <div class="left">
+                    <img src="/skin/frontend/gate/default/images/marketplace/shield/product-shield-v01.jpg" />
+                </div>
+                <div class="g2a-shield-pp-right">
+                    <p>
+                        <span class="icon-tick-bold"></span>
+                        以100%满意度购买                    </p>
+                    <p>
+                        <span class="icon-tick-bold"></span>
+                        解决方案中心，极速且优先                    </p>
+                    <p>
+                        <span class="icon-tick-bold"></span>
+                        每次购买都能节省一些                    </p>
+                    <p>
+                        <span class="icon-tick-bold"></span>
+                        获得特别折扣及特价促销                    </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+
+        <div class="g2a-shield-pp-footer">
+            <div class="g2a-shield-pp-footer-content">
+                 <p><b>获得<span style="color:#65b449">免费试用30天</span>G2A 保护盾</b>并且以100%满意度<br/>我们首要保证的是-确保您的资金回来。</p>
+                <p>
+                    <button class="mp-button-green" onclick="window.open('https://pay.g2a.com/g2ashield');" style="font-size: 13px">
+                        <img src="/skin/frontend/gate/default/images/marketplace/shield/shield28x22-v01.png" style="vertical-align: middle; margin-top:-4px;">
+                        获得免费30天的G2A保护盾                    </button>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>        <div class="jq-deactive-shield" style="display: none;">
+    <div class="deactive-shield">
+        <h2>关闭G2A保护盾？</h2>
+        <div class="icon-x cs-close" onclick="hideEscrowWarrning();"></div>
+        <div class="ds-row">
+            <div class="ds-left">
+                <div class="round-info">!</div>
+            </div>
+            <div class="ds-right">
+                <p><b>如果不激活G2A保护盾，我们将无法认证产品的质量。</b></p>
+                <p><b>请记住，如果关闭G2A保护盾，这意味着如果密钥出现问题，您将独自承担相关责任。</b></p>
+                <button onclick="hideEscrowWarrning();">保持G2A保护盾激活状态</button> <br><br>
+                <div class="ds-link" onclick="return disableEscrow();">我明白，不使用G2A保护盾继续进行购买。</div>
+            </div>
+        </div>
+    </div>
+</div>    </body>
+</html>

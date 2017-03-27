@@ -31,13 +31,14 @@ if __name__ == "__main__":
     # load the configures from file
     config = g2afile.readConfig(configfile)
     backend = config["run_backend"]
-    if backend:
-        try:
-            if os.fork() > 0:
-                os._exit(0)
-        except OSError, error:
-            print("fork failed:%d (%s)"%(error.errno, error.strerror))
-            os._exit(1)
+    
+    #if backend:
+    #    try:
+    #        if os.fork() > 0:
+    #            os._exit(0)
+    #    except OSError, error:
+    #        print("fork failed:%d (%s)"%(error.errno, error.strerror))
+    #        os._exit(1)
     notice_method = config["notice_method"]
     gamelist = config["gamelist"]
     Tinterval = config["time interval"]
@@ -54,6 +55,6 @@ if __name__ == "__main__":
         for game in games:
             Lower = game.UpdateLowestPrice()
             if Lower & game.IfLowerThreshold():
-                print("GameName:"+game.name+" new Lowest Price:"+game.lowest)
+                print("GameName:"+game.name+" new Lowest Price:"+str(game.lowest))
                 notice(game.name, game.lowest)
         time.sleep(Tinterval)
