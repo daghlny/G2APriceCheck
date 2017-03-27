@@ -1,12 +1,19 @@
 {
 	"notice_method" : "email",
-	"rec_email_addr" : "*",
-	"sender_email_addr" : "*",
-	"sender_email_pw"   : "*",
-	"sender_smtp_addr"  : "*",
+	"run_backend" : true,
+	"rec_email_addr" : "",
+	"sender_email_addr" : "",
+	"sender_email_pw"   : "",
+	"sender_smtp_addr"  : "",
+	"time interval": 10,
 	"gamelist" : {
-		"glove-case-key":{
-			"link": "https://www.g2a.com/glove-case-key.html",
-			"threshold" : 20
-		}
+		"glove-case-key": {
+				"link": "https://www.g2a.com/glove-case-key.html",
+				"threshold": 20
+			},
+		"Gamma Case Key": {
+				"link": "https://www.g2a.com/gamma-case-key.html",
+				"threshold": 20
+			}
+	}
 }
